@@ -14,12 +14,6 @@ Notebook `FINALL_PLEASEEE.ipynb` disusun mengikuti alur **CRISP-DM**:
 
 ## Dataset
 
-Dataset yang digunakan tersedia di folder `Dataset/`:
-- `icml_face_data.csv`
-- `fer2013new.csv`
-
-Keduanya digunakan sebagai bagian dari dataset **FER+**, yang merupakan pengembangan dari FER2013 dengan label anotasi dari beberapa annotator.
-
 > ⚠️ **Penting:** Dataset tidak disertakan dalam repository karena keterbatasan ukuran GitHub.
 >
 > Silakan unduh dataset FER+ melalui:
