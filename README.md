@@ -30,7 +30,7 @@ Implementasi model dibuat dengan pendekatan deep learning berbasis PyTorch dan l
 
 ```
 .
-├── FINALL_PLEASEEE.ipynb    # Notebook utama penelitian
+├── Final_Notebook.ipynb    # Notebook utama penelitian
 ├── Dataset/                  # Folder untuk dataset (tidak disertakan)
 ├── .gitignore               # Pengecualian file lokal dan environment
 └── README.md                # File dokumentasi
@@ -56,7 +56,7 @@ Notebook ini dijalankan pada environment Python dengan dependensi utama:
 1. Aktifkan environment Python
 2. Unduh dataset FER+ dari link yang disediakan di atas
 3. Pastikan dataset sudah berada di folder `Dataset/`
-4. Buka `FINALL_PLEASEEE.ipynb`
+4. Buka `Final_Notebook.ipynb`
 5. Jalankan cell dari atas ke bawah
 
 ## Sitasi
