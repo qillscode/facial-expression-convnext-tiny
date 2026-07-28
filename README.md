@@ -4,7 +4,7 @@ Proyek ini berisi notebook penelitian untuk menganalisis performa **ConvNeXt-Tin
 
 ## Ringkasan
 
-Notebook `Final_Notebook.ipynb` disusun mengikuti alur **CRISP-DM**:
+Notebook `Performa_ConvNeXt_Tiny_Pada_FER+.ipynb` disusun mengikuti alur **CRISP-DM**:
 1. Business Understanding
 2. Data Understanding
 3. Data Preparation
