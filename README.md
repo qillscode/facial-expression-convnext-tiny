@@ -56,7 +56,7 @@ Notebook ini dijalankan pada environment Python dengan dependensi utama:
 1. Aktifkan environment Python
 2. Unduh dataset FER+ dari link yang disediakan di atas
 3. Pastikan dataset sudah berada di folder `Dataset/`
-4. Buka `Final_Notebook.ipynb`
+4. Buka `Performa_ConvNeXt_Tiny_Pada_FER+.ipynb`
 5. Jalankan cell dari atas ke bawah
 
 ## Sitasi
