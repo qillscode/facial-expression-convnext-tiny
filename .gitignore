@@ -13,6 +13,17 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+*.ipynb
+
+# Model checkpoints and generated weights
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Local application state
+.gradio/
+__pycache__/
 
 # Environment variables
 .env
